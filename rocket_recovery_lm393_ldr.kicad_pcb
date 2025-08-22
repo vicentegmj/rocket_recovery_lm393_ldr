@@ -5035,7 +5035,7 @@
 			)
 		)
 		(property "Value" "BAT 9V"
-			(at -0.011779 14.87752 0)
+			(at -5.840411 7.756283 90)
 			(layer "F.SilkS")
 			(uuid "7bb42257-9aae-480c-b201-680b53aa9901")
 			(effects
@@ -7199,7 +7199,7 @@
 		)
 	)
 	(gr_text "vicente.gmj@gmail.com"
-		(at 125.5 116.25 0)
+		(at 124.48682 116.266836 0)
 		(layer "F.SilkS")
 		(uuid "800175ab-31cf-434b-923b-188df069e10c")
 		(effects
@@ -7210,7 +7210,7 @@
 		)
 	)
 	(gr_text "ApogeuLDR v1.1"
-		(at 123.25 115 0)
+		(at 122.365214 114.977465 0)
 		(layer "F.SilkS")
 		(uuid "acb02ba2-dfdb-4250-b0ca-e6ab41f37fa1")
 		(effects
