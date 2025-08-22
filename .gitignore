@@ -1,3 +1,4 @@
 # Ignorar pastas de backup do KiCad
 *_backups/
 *-backups/
+_autosave-*.kicad_prl
